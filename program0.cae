@@ -1,5 +1,4 @@
-PUSH 10
-PUSH 7
+READ
 ADD
 PRINT "Hello, World"
 HALT
